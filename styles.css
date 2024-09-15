@@ -87,10 +87,11 @@ nav {
     justify-content: space-between;
 }
 
+
 .nav__logo {
-    display: grid;
-    grid-template-columns: auto auto;
-    grid-column-gap: 10px;
+    display: grid; 
+    grid-template-columns: auto auto; 
+    grid-column-gap: 10px; 
 }
 
 .nav__logo img {
@@ -253,7 +254,6 @@ nav {
     font-size: 1.25rem;
     font-weight: 500;
     color: #000;
-    /* var(--white) */
 }
 
 .service__card p {
@@ -508,7 +508,7 @@ nav {
     }
 }
 
-/* Shows */
+/* Proyectos Realizados */
 
 .shows .box-container {
     display: grid;
