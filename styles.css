@@ -431,6 +431,10 @@ nav {
         z-index: 99;
     }
 
+    .nav__logo img {
+        width: 80px;
+    }
+
     .nav__links {
         position: absolute;
         left: 0;
